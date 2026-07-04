@@ -1,12 +1,12 @@
-# 🔒 VPN IPSec Policy-Based — IKEv1
-
+# 🔒 VPN Site-to-Site IPSec Policy-Based — IKEv1
+ 
 **Luiggy Habraham Encarnación Cabrera · Matrícula 2025-0663**
-
+ 
 ![Cisco](https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Topologia](https://img.shields.io/badge/Topolog%C3%ADa-Site--to--Site-8A2BE2?style=for-the-badge)
 ![Modelo](https://img.shields.io/badge/Modelo-Policy--Based-8A2BE2?style=for-the-badge)
 ![IKE](https://img.shields.io/badge/IKE-v1-6E4C13?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/Emulador-GNS3-009639?style=for-the-badge)
-![Uso](https://img.shields.io/badge/Uso-Educativo-blue?style=for-the-badge)
 
 > VPN site-to-site IPSec basada en políticas (ACL + crypto map) con IKEv1, sin interfaz de túnel dedicada.
 
