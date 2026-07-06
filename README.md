@@ -97,7 +97,7 @@ Configurar una VPN site-to-site **IPSec basada en políticas (policy-based)** co
 
 ## 🔧 Configuración
 
-Ver archivo: `Configuración para VPN IPSec Policy-Based IKEv1.txt`
+Ver archivo: `files/config.txt`
 
 ---
 
