@@ -119,12 +119,9 @@ Se espera:
 ```
 evidencias/
 ├── 01_topologia.png
-├── 02_crypto_isakmp_policy.png
-├── 03_acl_trafico_interesante.png
-├── 04_crypto_map.png
-├── 05_show_crypto_isakmp_sa.png
-├── 06_show_crypto_ipsec_sa.png
-└── 07_ping_pc1_pc2.png
+├── 02_show_crypto_isakmp_sa.png
+├── 03_show_crypto_ipsec_sa.png
+└── 04_wireshark_esp_trafico.png
 ```
 
 ---
