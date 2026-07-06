@@ -39,7 +39,7 @@ interface GigabitEthernet1/0
 
 ! Interfaz hacia R-Oeste
 interface GigabitEthernet2/0
- ip address 30.6.63.2 255.255.255.252
+ ip address 25.6.63.5 255.255.255.252
  no shutdown
 
 exit
