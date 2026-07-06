@@ -117,7 +117,7 @@ Se espera:
 ## 📸 Capturas de Pantalla
 
 ```
-evidencias/
+images/
 ├── 01_topologia.png
 ├── 02_show_crypto_isakmp_sa.png
 ├── 03_show_crypto_ipsec_sa.png
