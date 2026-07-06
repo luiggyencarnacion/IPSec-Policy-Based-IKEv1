@@ -59,14 +59,12 @@ Configurar una VPN site-to-site **IPSec basada en políticas (policy-based)** co
 | Dispositivo | Interfaz | IP | Red |
 |---|---|---|---|
 | ISP-CLARO | g1/0 | 20.6.63.2/30 | Enlace hacia R-ESTE |
-| ISP-CLARO | g2/0 | 30.6.63.2/30 | Enlace hacia R-OESTE |
+| ISP-CLARO | g2/0 | 26.6.63.5/30 | Enlace hacia R-OESTE |
 | ISP-CLARO | Lo0 | 20.20.20.20/32 | Loopback de pruebas |
 | R-ESTE | g1/0 (WAN) | 25.6.63.1/30 | Hacia ISP |
 | R-ESTE | g0/0 (LAN) | 10.6.63.1/24 | SITE-A |
 | R-OESTE | g2/0 (WAN) | 25.6.63.6/30 | Hacia ISP |
 | R-OESTE | g0/0 (LAN) | 172.16.63.1/24 | SITE-B |
-
-> ⚠️ Nota técnica: el archivo fuente define las interfaces del ISP en `20.6.63.0/30` y `30.6.63.0/30`, mientras que los peers de la VPN usan `25.6.63.1` y `25.6.63.6`. Verifica la coherencia de direccionamiento en tu topología real antes de desplegar.
 
 ### Detalles del Entorno
 
