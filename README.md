@@ -58,7 +58,7 @@ Configurar una VPN site-to-site **IPSec basada en políticas (policy-based)** co
 
 | Dispositivo | Interfaz | IP | Red |
 |---|---|---|---|
-| ISP-CLARO | g1/0 | 20.6.63.2/30 | Enlace hacia R-ESTE |
+| ISP-CLARO | g1/0 | 25.6.63.2/30 | Enlace hacia R-ESTE |
 | ISP-CLARO | g2/0 | 26.6.63.5/30 | Enlace hacia R-OESTE |
 | ISP-CLARO | Lo0 | 20.20.20.20/32 | Loopback de pruebas |
 | R-ESTE | g1/0 (WAN) | 25.6.63.1/30 | Hacia ISP |
